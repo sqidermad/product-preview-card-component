@@ -1,1 +1,1 @@
-(WIP) Product Preview Card Component
+### (WIP) Product Preview Card Component
